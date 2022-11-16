@@ -6,7 +6,7 @@
       "showCart": true,
       "showSearch": false,
       "showLogo": true,
-      "showNotification": false
+      "showNotification": true
     },
     {
       "layout": "bannerImage",
