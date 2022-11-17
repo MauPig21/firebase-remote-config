@@ -13,7 +13,7 @@
       "height": 0.1,
       "items": [
         {
-          "image": "https://tumundototal.com/media/home/Cintillos/Cintillo2.jpg",
+          "image": "https://tumundototal.com/media/home/Cintillos/Cintillo1.jpg",
           "padding": 5.0,
           "radius": 9.0
         }
@@ -55,6 +55,10 @@
         },
         {
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-4.jpg",
+          "padding": 5.0
+        },
+        {
+          "image": "https://tumundototal.com/media/amasty/bannerslider/banner-5.jpg",
           "padding": 5.0
         }
         
