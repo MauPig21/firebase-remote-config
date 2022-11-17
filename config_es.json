@@ -41,7 +41,10 @@
       "showBackGround": true,
       "radius": 2.0,
       "items": [
-       
+        {
+          "image": "https://tumundototal.com/media/amasty/bannerslider/banner-1.jpg",
+          "padding": 5.0
+        },
         {
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-2.jpg",
           "padding": 5.0
