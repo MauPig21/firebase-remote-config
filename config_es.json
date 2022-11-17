@@ -2,11 +2,11 @@
   "HorizonLayout": [
     {
       "layout": "logo",
-      "showMenu": true,
-      "showCart": true,
+      "showMenu": false,
+      "showCart": false,
       "showSearch": false,
-      "showLogo": true,
-      "showNotification": true
+      "showLogo": false,
+      "showNotification": false
     },
     {
       "layout": "bannerImage",
