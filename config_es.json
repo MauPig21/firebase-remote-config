@@ -41,7 +41,7 @@
       "radius": 2.0,
       "items": [
         {
-          "category": 409,
+          //"category": 409,
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-1.jpg",
           "padding": 5.0
         },
@@ -54,10 +54,12 @@
           "padding": 5.0
         },
         {
+          "category": 2426,
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-4.jpg",
           "padding": 5.0
         },
         {
+          "category": 2485,
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-5.jpg",
           "padding": 5.0
         }
@@ -126,6 +128,7 @@
       "height": 0.25,
       "items": [
         {
+          "category": 581
           "image": "https://tumundototal.com/media/wysiwyg/apaisados-4.png",
           "padding": 5.0
         }
