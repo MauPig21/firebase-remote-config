@@ -33,17 +33,6 @@
     },
     {
       "layout": "bannerImage",
-      "height": 0.11,
-      "items": [
-        {
-          "image": "https://tumundototal.com/media/home/Cintillos/Cintillo2.jpg",
-          "padding": 5.0,
-          "radius": 9.0
-        }
-      ]
-    },
-    {
-      "layout": "bannerImage",
       "height": 0.4,
       "isSlider": true,
       "autoPlay": true,
