@@ -6,7 +6,7 @@
       "showCart": true,
       "showSearch": false,
       "showLogo": true,
-      "showNotification": false
+      "showNotification": true
     },
     {
       "layout": "bannerImage",
@@ -33,6 +33,17 @@
     },
     {
       "layout": "bannerImage",
+      "height": 0.11,
+      "items": [
+        {
+          "image": "https://tumundototal.com/media/home/Cintillos/Cintillo2.jpg",
+          "padding": 5.0,
+          "radius": 9.0
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
       "height": 0.4,
       "isSlider": true,
       "autoPlay": true,
@@ -42,6 +53,7 @@
       "radius": 2.0,
       "items": [
         {
+          "category": 409
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-1.jpg",
           "padding": 5.0
         },
@@ -50,6 +62,13 @@
           "padding": 5.0
         },
         {
+          "image": "https://tumundototal.com/media/amasty/bannerslider/banner-3.jpg",
+          "padding": 5.0
+        },
+        {
+          "image": "https://tumundototal.com/media/amasty/bannerslider/banner-4.jpg",
+          "padding": 5.0
+        },{
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-3.jpg",
           "padding": 5.0
         },
@@ -69,6 +88,7 @@
       "height": 0.2,
       "items": [
         {
+          "product": 16082,
           "image": "https://tumundototal.com/media/wysiwyg/apaisados-1.png",
           "padding": 5.0
         }
@@ -92,7 +112,7 @@
       "height": 0.25,
       "items": [
         {
-          "product": 10056,
+          "category": 478,
           "image": "https://tumundototal.com/media/wysiwyg/apaisados-2.png",
           "padding": 5.0
         }
