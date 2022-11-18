@@ -5,8 +5,7 @@
       "showMenu": true,
       "showCart": true,
       "showSearch": false,
-      "showLogo": true,
-      "showNotification": true
+      "showLogo": true
     },
     {
       "layout": "bannerImage",
@@ -51,13 +50,6 @@
           "padding": 5.0
         },
         {
-          "image": "https://tumundototal.com/media/amasty/bannerslider/banner-3.jpg",
-          "padding": 5.0
-        },
-        {
-          "image": "https://tumundototal.com/media/amasty/bannerslider/banner-4.jpg",
-          "padding": 5.0
-        },{
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-3.jpg",
           "padding": 5.0
         },
